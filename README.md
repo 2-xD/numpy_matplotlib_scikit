@@ -1,1 +1,0 @@
-# numpy_matplotlib_scikit
